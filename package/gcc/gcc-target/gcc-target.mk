@@ -1,7 +1,7 @@
 ################################################################################
 #
 # gcc-target
-#
+# Based on: https://luplab.cs.ucdavis.edu/2022/01/06/buildroot-and-compiler-on-target.html
 ################################################################################
 
 GCC_TARGET_VERSION = $(GCC_VERSION)
